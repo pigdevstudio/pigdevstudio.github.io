@@ -2,27 +2,13 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Pigdev Studio",
     "description": "",
-    "home_page_url": "https://pigdevstudio.github.io",
-    "feed_url": "https://pigdevstudio.github.io/feed.json",
+    "home_page_url": "http://pigdev.studio",
+    "feed_url": "http://pigdev.studio/feed.json",
     "user_comment": "",
-    "icon": "https://pigdevstudio.github.io/media/website/1280x384.jpg",
+    "icon": "http://pigdev.studio/media/website/1280x384.jpg",
     "author": {
         "name": "Henrique Campos"
     },
     "items": [
-        {
-            "id": "https://pigdevstudio.github.io/testing-post.html",
-            "url": "https://pigdevstudio.github.io/testing-post.html",
-            "title": "Testing Post",
-            "summary": "Hey there I am just testing Publii seems cool. ",
-            "content_html": "<p>Hey there I am just testing Publii seems cool.<span style=\"font-size: inherit;\"> </span></p>\n<p><img class=\"post__image--center\" src=\"https://pigdevstudio.github.io/media/posts/1/02_happy.png\" alt=\"Pigdev smiling\" width=\"128\" height=\"256\"></p>",
-            "author": {
-                "name": "Henrique Campos"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-05-18T13:26:53-03:00",
-            "date_modified": "2019-05-18T13:35:50-03:00"
-        }
     ]
 }

@@ -1,33 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Pigdev Studio</title>
-    <link href="https://pigdevstudio.github.io/feed.xml" rel="self" />
-    <link href="https://pigdevstudio.github.io" />
-    <updated>2019-05-18T13:47:42-03:00</updated>
+    <link href="http://pigdev.studio/feed.xml" rel="self" />
+    <link href="http://pigdev.studio" />
+    <updated>1969-12-31T21:00:00-03:00</updated>
     <author>
         <name>Henrique Campos</name>
     </author>
-    <id>https://pigdevstudio.github.io</id>
+    <id>http://pigdev.studio</id>
 
-    <entry>
-        <title>Testing Post</title>
-        <author>
-            <name>Henrique Campos</name>
-        </author>
-        <link href="https://pigdevstudio.github.io/testing-post.html"/>
-        <id>https://pigdevstudio.github.io/testing-post.html</id>
-
-        <updated>2019-05-18T13:35:50-03:00</updated>
-            <summary>
-                <![CDATA[
-                    Hey there I am just testing Publii seems cool. 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Hey there I am just testing Publii seems cool.<span style="font-size: inherit;"> </span></p>
-<p><img class="post__image--center" src="https://pigdevstudio.github.io/media/posts/1/02_happy.png" alt="Pigdev smiling" width="128" height="256"></p>
-            ]]>
-        </content>
-    </entry>
 </feed>
