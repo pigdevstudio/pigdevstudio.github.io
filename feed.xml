@@ -3,7 +3,7 @@
     <title>Pigdev Studio</title>
     <link href="http://pigdev.studio/feed.xml" rel="self" />
     <link href="http://pigdev.studio" />
-    <updated>2019-09-23T20:52:59-03:00</updated>
+    <updated>2019-09-23T21:03:55-03:00</updated>
     <author>
         <name>Henrique Campos</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="http://pigdev.studio/first-time-in-wildness.html"/>
         <id>http://pigdev.studio/first-time-in-wildness.html</id>
 
-        <updated>2019-09-23T20:52:06-03:00</updated>
+        <updated>2019-09-23T21:03:50-03:00</updated>
             <summary>
                 <![CDATA[
                     During the past week the Godot Engine community was invited to go&hellip;
@@ -33,13 +33,12 @@
 <p class="align-center"><iframe width="560" height="315" src="https://www.youtube.com/embed/93wKKdaA-5A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></p>
 <p>During Sunday I focused on improving the overall game feel by juicing it, adding the screen flow (splash, play and end screens) and polishing some mechanics and interactions. I didn't streamed tho, because here where I live was goddam hot 🔥🔥 and I didn't manage to live wearing a shirt, and honestly I wouldn't stream shirtless.</p>
 <p>At the end I was quite happy with the game, I just wished I had time to make proper music and sound effects, the current ones were taken from another games of mine.</p>
-<p class="align-center"><iframe width="560" height="315" src="https://itch.io/embed-upload/1666649?color=293252" allowfullscreen="allowfullscreen" frameborder="0"></iframe></p>
-<p>I had to use Godot 3.1 to actually export it for HTML, seems like the current nightly builds are quite broken in that sense, but apart from that everything was made using a nightly build from Calinou.</p>
+<p class="align-center"><iframe width="550" height="165" src="https://itch.io/embed/487025?border_width=0&amp;bg_color=4d5d89&amp;fg_color=ffffff&amp;link_color=b76fff&amp;border_color=515a7a" frameborder="0" ></iframe></p>
+<p>I had to use Godot 3.1 to actually export it for HTML, seems like the current nightly builds are quite broken in that sense, but apart from that everything was made using a nightly build from Calinou. You can play it directly on your browser with the link below:</p>
+<p><a href="https://itch.io/embed-upload/1666649?color=293252" target="_blank" rel="noopener noreferrer">Play Merge Fever on your Browser!</a></p>
 <p>You can see that the game uses an aesthetic quite similar to <a href="https://pigdev.itch.io/juans-saga" target="_blank" rel="noopener noreferrer">Juan's Saga</a>, right? This is because they are part of the same universe. People think Marvel Cinematic Universe has cool crossovers, wait'll they see Pigdev Shared Universe. 😂</p>
 <p>The idea is that Merge Fever is what happens when Juan goes to the computer to create new features for his projects, so Merge Fever could even be a mini game in Juan Saga.</p>
 <p>That's it, PLAY THE GAME! And also, please don't forget to rate the game and leave all the honest feedback you can! By the way if you are playing it during the Wild Jam 13's rating period, please don't forget to <a href="https://itch.io/jam/godot-wild-jam-13/rate/487025">rate it there as well</a>!</p>
-<p>You can also download the desktop versions of Merge Fever using the widget below:</p>
-<p class="align-center"><iframe width="550" height="165" src="https://itch.io/embed/487025?border_width=0&amp;bg_color=4d5d89&amp;fg_color=ffffff&amp;link_color=b76fff&amp;border_color=515a7a" frameborder="0"></iframe></p>
 <p>That's it, thanks for reading, <em><strong>keep developing and until the next time!</strong>👍</em>🐷</p>
             ]]>
         </content>
