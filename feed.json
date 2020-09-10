@@ -5,6 +5,7 @@
     "home_page_url": "https://pigdev.studio",
     "feed_url": "https://pigdev.studio/feed.json",
     "user_comment": "",
+    "icon": "https://pigdev.studio/media/website/avatar-round.png",
     "author": {
         "name": "Henrique Campos"
     },
