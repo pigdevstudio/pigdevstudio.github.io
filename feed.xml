@@ -9,4 +9,27 @@
     </author>
     <id>https://pigdev.studio</id>
 
+    <entry>
+        <title>Moon Cheeser</title>
+        <author>
+            <name>Henrique Campos</name>
+        </author>
+        <link href="https://pigdev.studio/moon-cheeser/"/>
+        <id>https://pigdev.studio/moon-cheeser/</id>
+            <category term="games"/>
+
+        <updated>2020-10-28T10:38:04-03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pigdev.studio/media/posts/6/post-thumbnail.png" alt="" />
+                    Moon Cheeser by Pigdev, Henrique Campos
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pigdev.studio/media/posts/6/post-thumbnail.png" alt="" />
+                <p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="552" height="167" frameborder="0" src="https://itch.io/embed/73431?bg_color=00112b&amp;fg_color=ffe680&amp;link_color=ff6655&amp;border_color=30415b"><a href="https://pigdev.itch.io/moon-cheeser">Moon Cheeser by Pigdev, Henrique Campos</a></iframe></div></p>
+            ]]>
+        </content>
+    </entry>
 </feed>
