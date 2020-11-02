@@ -13,9 +13,9 @@
         {
             "id": "https://pigdev.studio/moon-cheeser/",
             "url": "https://pigdev.studio/moon-cheeser/",
-            "title": "Moon Cheeser",
-            "summary": "Moon Cheeser by Pigdev, Henrique Campos",
-            "content_html": "<p class=\"align-center\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"552\" height=\"167\" frameborder=\"0\" src=\"https://itch.io/embed/73431?bg_color=00112b&amp;fg_color=ffe680&amp;link_color=ff6655&amp;border_color=30415b\"><a href=\"https://pigdev.itch.io/moon-cheeser\">Moon Cheeser by Pigdev, Henrique Campos</a></iframe></div></p>",
+            "title": "Moon Cheeser v2.1.0 - Blue Moon update",
+            "summary": "Directly from the deep space come forth the Moon's nemesis to haunt your dreams -- the Blue Moon, also known as&hellip;",
+            "content_html": "<p>Directly from the deep space come forth the Moon's nemesis to haunt your dreams -- the Blue Moon, also known as the Betrayer Moon. It betrays your usual perception that we would only get one Full Moon per month.</p>\n<p>Right on Halloween a new celestial body, a new place to explore. And a new flavor to taste as the Blue Moon is made of blue cheese, Gorgonzola cheese to be more precise!</p>\n<p class=\"text-justify\">To celebrate this year's Betrayer Moon shining on Halloween, I want to make a massive update on <strong>Moon Cheeser, </strong>known as</p>\n<h2 class=\"text-center align-center\">🌕The Blue Moon update 🌕</h2>\n<p class=\"align-center\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/CIPAQIwuJ1g\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p>Check out the Blue Moon funding sales page and know the full background story and all the campaign details:</p>\n<p class=\"align-center\"><a href=\"https://itch.io/s/37948/moon-cheeser-blue-moon-update-funding-sale\" target=\"_blank\" rel=\"noopener noreferrer\">Moon Cheeser Blue Moon funding sale.</a></p>\n<p class=\"align-center\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"552\" height=\"167\" frameborder=\"0\" src=\"https://itch.io/embed/73431?bg_color=020d3f&amp;fg_color=ffe680&amp;link_color=ff6655&amp;border_color=30415b\"><a href=\"https://pigdev.itch.io/moon-cheeser\">Moon Cheeser by Pigdev, Henrique Campos</a></iframe></div>",
             "image": "https://pigdev.studio/media/posts/6/post-thumbnail.png",
             "author": {
                 "name": "Henrique Campos"
@@ -23,8 +23,8 @@
             "tags": [
                    "games"
             ],
-            "date_published": "2020-10-28T10:38:04-03:00",
-            "date_modified": "2020-10-28T10:38:04-03:00"
+            "date_published": "2020-10-28T10:33:35-03:00",
+            "date_modified": "2020-11-02T17:49:20-03:00"
         }
     ]
 }
