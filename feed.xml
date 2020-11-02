@@ -3,7 +3,7 @@
     <title>Pigdev Studio</title>
     <link href="https://pigdev.studio/feed.xml" rel="self" />
     <link href="https://pigdev.studio" />
-    <updated>2020-11-02T17:50:55-03:00</updated>
+    <updated>2020-11-02T18:05:41-03:00</updated>
     <author>
         <name>Henrique Campos</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://pigdev.studio/moon-cheeser/</id>
             <category term="games"/>
 
-        <updated>2020-11-02T17:50:55-03:00</updated>
+        <updated>2020-11-02T18:05:41-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://pigdev.studio/media/posts/6/post-thumbnail.png" alt="" />
@@ -35,7 +35,7 @@
 <p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/CIPAQIwuJ1g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 <p>Check out the Blue Moon funding sales page and know the full background story and all the campaign details:</p>
 <p class="align-center"><a href="https://itch.io/s/37948/moon-cheeser-blue-moon-update-funding-sale" target="_blank" rel="noopener noreferrer">Moon Cheeser Blue Moon funding sale.</a></p>
-<p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="552" height="167" frameborder="0" src="https://itch.io/embed/73431?bg_color=020d3f&amp;fg_color=ffe680&amp;link_color=ff6655&amp;border_color=30415b"><a href="https://pigdev.itch.io/moon-cheeser">Moon Cheeser by Pigdev, Henrique Campos</a></iframe></div>
+<p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="640" height="370" frameborder="0" src="https://itch.io/embed-upload/2907360?color=00112b" allowfullscreen="allowfullscreen"><a href="https://pigdev.itch.io/moon-cheeser">Play Moon Cheeser on itch.io</a></iframe></div>
             ]]>
         </content>
     </entry>
