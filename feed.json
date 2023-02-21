@@ -10,19 +10,5 @@
         "name": "Henrique Campos"
     },
     "items": [
-        {
-            "id": "https://pigdev.com/a-test/",
-            "url": "https://pigdev.com/a-test/",
-            "title": "A test",
-            "summary": "Test stuff",
-            "content_html": "<p>Test stuff</p>",
-            "author": {
-                "name": "Henrique Campos"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-02-21T17:04:11-03:00",
-            "date_modified": "2023-02-21T17:04:12-03:00"
-        }
     ]
 }
