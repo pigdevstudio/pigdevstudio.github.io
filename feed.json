@@ -2,13 +2,27 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Pigdev Studio",
     "description": "",
-    "home_page_url": "https://pigdev.studio",
-    "feed_url": "https://pigdev.studio/feed.json",
+    "home_page_url": "https://pigdev.com",
+    "feed_url": "https://pigdev.com/feed.json",
     "user_comment": "",
-    "icon": "https://pigdev.studio/media/website/avatar-round.png",
+    "icon": "https://pigdev.com/media/website/avatar-round.png",
     "author": {
         "name": "Henrique Campos"
     },
     "items": [
+        {
+            "id": "https://pigdev.com/a-test/",
+            "url": "https://pigdev.com/a-test/",
+            "title": "A test",
+            "summary": "Test stuff",
+            "content_html": "<p>Test stuff</p>",
+            "author": {
+                "name": "Henrique Campos"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-02-21T17:04:11-03:00",
+            "date_modified": "2023-02-21T17:04:12-03:00"
+        }
     ]
 }
