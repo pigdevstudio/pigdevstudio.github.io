@@ -1,10 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "pigdev",
+    "title": "Pigdev",
     "description": "",
     "home_page_url": "https://pigdevstudio.github.io",
     "feed_url": "https://pigdevstudio.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://pigdevstudio.github.io/media/website/avatar-round.png",
     "author": {
         "name": "Henrique Campos"
     },
