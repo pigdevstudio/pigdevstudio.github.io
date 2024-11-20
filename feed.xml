@@ -3,10 +3,41 @@
     <title>Pigdev</title>
     <link href="https://pigdevstudio.github.io/feed.xml" rel="self" />
     <link href="https://pigdevstudio.github.io" />
-    <updated>1969-12-31T21:00:00-03:00</updated>
+    <updated>2024-11-20T19:49:22-03:00</updated>
     <author>
         <name>Henrique Campos</name>
     </author>
     <id>https://pigdevstudio.github.io</id>
 
+    <entry>
+        <title>Squeeze and Release</title>
+        <author>
+            <name>Henrique Campos</name>
+        </author>
+        <link href="https://pigdevstudio.github.io/squeeze-and-release/"/>
+        <id>https://pigdevstudio.github.io/squeeze-and-release/</id>
+
+        <updated>2024-11-20T19:49:22-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Squeeze and Release, or Squeeze'n'Release, is a game design technique used to keep players engaged in the game by building&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Squeeze and Release, or <em>Squeeze'n'Release</em>, is a game design technique used to keep players engaged in the game by building tension followed by releasing it, oscillating between stress and relaxation. This technique relies on a core feature of human experience: <strong>pleasure</strong>.</p>
+<p>In this post, we will understand how we can poke into the brain to make it release shots of pleasure, why the brain does that, why pleasure is so appealing to us, and how we can implement Squeeze'n'Release on every moment of a game.</p>
+<h1>Homeostasis</h1>
+<p>Fundamentally, our body needs to stay in a state of equilibrium known as <strong>homeostasis</strong>, where there are no excess nor deficiency on its metabolism. Due to an excess or a deficiency a chemical imbalance starts to metabolize molecules known as hormones that our brain interprets. When that happens, we need to do something to bring the body back to its homeostasis.</p>
+<p>If we successfully perform a behavior that brings us back to homeostasis, our reward system releases other hormones that dissolve the ones that communicate the imbalance, making us feel relaxed, and we interpret this as pleasure. These behaviors that bring us back to homeostasis are known as allostasis, when we maintain equilibrium through change.</p>
+<h1>Tension and Pleasure</h1>
+<p>Pleasure is the brain's way to store the allostasis that you performed so you can do it again when you feel the same imbalance in the future, it does that to save energy. In that sense, pleasure is the way the brain uses to store memories! Every memory is stored through emotional activation, the good ones by pleasure the bad ones by pain.</p>
+<p>It's important to note that the brain only releases pleasure the moment we went from a state of imbalance into homeostasis. It's just a shot and it's necessary that we get out of homeostasis(comfort zone) into discomfort and back to comfort. In that sense, to feel pleasure, we need to be stressed out before.</p>
+<h1>The Technique</h1>
+<p>Knowing that we need to feel discomfort in order to feel pleasure, game designers create many mechanisms in the game that rely on this to optimize the players' experience in the game, making it feel ultra pleasurable to play the game.</p>
+<p>This technique is implemented every moment of the game in the minor and the major aspects. For instance, let's analyze Mega Man X's X-Buster.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
